@@ -1,7 +1,7 @@
 main:
-  - title: "Posty"
+  - title: "Posts"
     url: /posts/
-  - title: "Kategorie"
+  - title: "Categories"
     url: /categories/
   - title: "Tagi"
     url: /tags/
