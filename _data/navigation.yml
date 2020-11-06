@@ -5,5 +5,3 @@ main:
     url: /categories/
   - title: "Tagz"
     url: /tags/
-  - title: "O mnie"
-    url: /about/
